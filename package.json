@@ -1,0 +1,9 @@
+{
+  "name": "day-45-docker-cicd",
+  "version": "1.0.0",
+  "description": "Day 45 Docker CI/CD practice application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
